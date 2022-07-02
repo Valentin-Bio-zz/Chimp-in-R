@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+_DS_Store
+Thumbs.db
+/public
+/resources

@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
-  font: native
+  theme_day: Forest
+  theme_night: 
+  font: Classic
   font_size: L
 
 # SEO

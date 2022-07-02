@@ -8,7 +8,7 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
   Integrative Ecology Center (CEI)
-hero_media: CEI_entrance.jpeg
+hero_media: entrance_4.jpeg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Integrative Ecology Center** has been a center of excellence Ecological research, teaching, and practice since its founding in 2022.
+The **Integrative Ecology Center** is a center of excellence Ecological research, teaching, and practice since its founding in 2022.

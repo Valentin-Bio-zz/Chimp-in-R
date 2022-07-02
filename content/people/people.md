@@ -1,9 +1,11 @@
 ---
 content:
   user_groups:
+  - Director
   - Principal Investigators
   - Researchers
   - Grad Students
+  - Lab Technicians
   - Administration
   - Visitors
   - Alumni

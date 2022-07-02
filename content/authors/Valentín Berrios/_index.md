@@ -1,0 +1,41 @@
+---
+bio: My research interests include distributed robotics, mobile computing and programmable
+  matter.
+education:
+  courses:
+  - course: BSc in Biotechnology Engeneering
+    year: 2022
+    institution: Universidad Nacional Andrés Bello
+ 
+email: "v.berriosfarias@gmail.com"
+highlight_name: false
+interests:
+- Biotechnology
+- Bioinformatics
+- Systems biology
+organizations:
+- name: Universidad de Talca
+  url: ""
+role: Lab Assistant
+social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:test@example.org
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.es/citations?hl=es&user=LRVm2cUAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gcushen
+superuser: true
+title: Valentín Berrios
+user_groups:
+- Lab Technicians
+---
+
+Biochemist, University of Santiago de Chile and Doctor in Biological Sciences, Molecular Genetics and Microbiology mention, Pontificia Universidad Católica de Chile. His research focuses on the field of viral ecogenomics using massive sequencing and viral enrichment techniques to understand viral adaptation mechanisms and virus-host (mainly microbial) interactions in the context of their contribution to ecosystem services.
+Dr. Guajardo-Leiva's research work has been developed in viral communities of extreme systems such as hot springs and the Southern Ocean, as well as charred environments impacted by human activity such as fjords in Northern Patagonia and wastewater.
+Dr. Guajardo-Leiva is currently developing his ANID-FONDECYT postdoctoral project focused on air transport and the ecological role of bacteriophages in the rhizospheres of Antarctic plants.

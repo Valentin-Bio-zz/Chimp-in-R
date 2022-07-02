@@ -1,18 +1,18 @@
 ---
 content:
   address:
-    city: Stanford
-    country: United States
-    country_code: US
-    postcode: "94305"
-    region: CA
-    street: 450 Serra Mall
+    city: Talca
+    country: Chile
+    country_code: CL
+    postcode: "3480094"
+    region: Región del Maule
+    street: Ruta 118, Talca, Maule 
   appointment_url: https://calendly.com
   autolink: true
   coordinates:
-    latitude: "37.4275"
-    longitude: "-122.1697"
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: "-35.405781"
+    longitude: "-71.632924"
+  directions: Enter University Southern entrance, go to the last street. Besides CEAP.
   email: test@example.org
   form:
     formspree:
@@ -33,4 +33,4 @@ weight: 10
 widget: contact
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+If interested on our projects or want more informaiton about our activities please give us your contact.
